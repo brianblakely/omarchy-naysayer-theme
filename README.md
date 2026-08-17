@@ -1,2 +1,5 @@
-# Blowmarchy
+# Naysayer
+
 An Omarchy theme based on Jonathan Blow's personal emacs theme.
+
+(currently in pre-production)
