@@ -1,7 +1,8 @@
 mode = "dark"
 
 accent = "#0fdfaf"
-selection = "#0000ff"
+# This refers to "selection background"
+selection = "#8fbc8f"
 muted = "#a9a9a9"
 
 background = "#072626"
@@ -24,7 +25,7 @@ magenta = "#add8e6"
 brown = "#504038"
 
 bright_red = "#d3b58d"
-bright_yellow = "#b4eeb4"
+bright_yellow = "#8fbc8f"
 bright_green = "#90ee90"
 bright_cyan = "#add8e6"
 bright_blue = "#0000ff"
