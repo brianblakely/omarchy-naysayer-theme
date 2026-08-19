@@ -2,4 +2,6 @@
 
 An Omarchy theme based on Jonathan Blow's personal emacs theme.
 
-(currently in pre-production)
+![Naysayer preview](preview.png)
+![Naysayer background](backgrounds/0-adventure.png)
+
